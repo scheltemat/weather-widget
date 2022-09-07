@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card{
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 400px;
+
+}
+
+.card2{
+    padding-left: 10px;
+}
+
+input{
+    width: 70%;
+    padding: 0.5em;
+    border: white;
+    border-radius: 10px;
+    background: #7c7c7c5b;
+    color: white;
+}
+
+button{
+    border: none;
+    border-radius: 10px;
+    padding: 0.5em;
+    background: white;
+    /* color: ; */
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.flex{
+    display: flex;
+}
+.description{
+    display: flex;
+    align-items: center;
+}
