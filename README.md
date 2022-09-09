@@ -2,6 +2,8 @@
 
 # Weather Widget
 
+## [link to the website](https://weather-widget-2022.netlify.app)
+
 ### Overview
 - This is a simple weather app to display weather data based on a search location. It populates HTML elements using DOM manipulation and pulls data from a weather API. And my grandma says it looks pretty :)
 
